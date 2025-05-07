@@ -9,7 +9,7 @@
 ](https://github.com/user-attachments/assets/89c13e81-15c2-4e63-af55-3a26834cff04)
 
 # Skills
-(![Screenshot 2025-05-07 151405](https://github.com/user-attachments/assets/09a31601-d7f0-4907-beff-41845136af1d)
+![Screenshot 2025-05-07 151405](https://github.com/user-attachments/assets/09a31601-d7f0-4907-beff-41845136af1d)
 
 # Featured Projects
 (https://github.com/user-attachments/assets/d69915fc-d876-474c-b8b9-14841bed7f09)
