@@ -1,6 +1,7 @@
-# Personal Portfolio <a href="![] (https://people.umass.edu/avsingh" target="_blank"> (http://127.0.0.1:5500/Personal%20Portfolio/index.html)</a>
+# Personal Portfolio 
+<a href="(https://people.umass.edu/avsingh" target="_blank"> (http://127.0.0.1:5500/Personal%20Portfolio/index.html)</a>
 
- <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme. It was generated using using Jekyll, Sass, and Gulp.js.</p>
+ <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme. It was generated using Jekyll, Sass, and Gulp.js.</p>
 
 # Home Page
 ![Screenshot 2025-05-07 151405](https://github.com/user-attachments/assets/d921c0bd-3a65-408e-8d30-575049a470e6)
