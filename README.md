@@ -1,9 +1,8 @@
 # Personal Portfolio 
 
 # Live Link
--  [Live Site URL].(http://127.0.0.1:5500/Personal%20Portfolio/index.html)
+-  [Live Site URL](http://127.0.0.1:5500/Personal%20Portfolio/index.html)
 
-<a href="(https://people.umass.edu/avsingh" target="_blank"> (http://127.0.0.1:5500/Personal%20Portfolio/index.html)</a>
 
  <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme. It was generated using Jekyll, Sass, and Gulp.js.</p>
 
